@@ -1528,6 +1528,10 @@ version = "0.1.0"
 submodule = "extensions/helm"
 version = "0.0.2"
 
+[helios-zed-theme]
+submodule = "extensions/helios-zed-theme"
+version = "0.0.5"
+
 [herzha-theme]
 submodule = "extensions/herzha-theme"
 version = "0.0.1"
